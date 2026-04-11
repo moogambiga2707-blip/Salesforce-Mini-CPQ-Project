@@ -81,9 +81,7 @@ This project demonstrates:
 - CRM sales lifecycle design
 - Native quote automation
 - Mini CPQ business process implementation
-
-- 
+ 
 ## Author
 Moogambiga
-
 Salesforce Consultant Portfolio Project
