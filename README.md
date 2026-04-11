@@ -46,8 +46,8 @@ A company sells laptops and CRM software bundles. Sales reps need to generate cu
 - Opportunity Products
 - Quotes
 - Quote Line Items
+- Flow
 - Approval Process
-- Validation Rules
 
 
 ## Project Architecture
