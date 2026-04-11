@@ -59,9 +59,6 @@ Lead/Account → Opportunity → Products → Quote → Approval → PDF Proposa
 - products.csv
 - standard_pricebook_entries.csv
 - enterprise_sales_pricebook.csv
-- accounts.csv
-- opportunities.csv
-
 
 ## Screenshots Included
 
@@ -72,7 +69,7 @@ Lead/Account → Opportunity → Products → Quote → Approval → PDF Proposa
 5. Quote Record
 6. Quote Sync Screen
 7. Approval Process Setup
-8. Final Quote PDF
+8. Cloude9 Deal Final Quote
 
 ## Key Learning Outcomes
 
