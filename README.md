@@ -62,13 +62,13 @@ Lead/Account → Opportunity → Products → Quote → Approval → PDF Proposa
 
 ## Screenshots Included
 
-1. Product List
-2. Price Book Setup
-3. Opportunity Record
-4. Opportunity Products
-5. Quote Record
-6. Quote Sync Screen
-7. Approval Process Setup
+1. Approval Processes.png
+2. Flow - Send Email to Manager.png
+3. Flow Builder - Decision Element.png
+4. Flow Builder - Update records.png
+5. Quote Line Item Quantity more than 10-V1.png
+6. Quote Line Items- After Discount 20%.png
+7. Quote Line Items.png
 8. Cloude9 Deal Final Quote
 
 ## Key Learning Outcomes
