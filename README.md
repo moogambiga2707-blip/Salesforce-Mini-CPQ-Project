@@ -36,7 +36,7 @@ A company sells laptops and CRM software bundles. Sales reps need to generate cu
 - PDF quote generation
 
 ### Approval Workflow
-- Discount >20% requires manager approval
+- Discount = 20% requires manager approval
 
 ## Salesforce Components Used
 
